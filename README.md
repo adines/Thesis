@@ -1,4 +1,4 @@
-# Thesis
+# Simplifying the usage and construction of deep image classification models
 
 This repository summarizes all the projects created during the development of the thesis.
 
